@@ -1,5 +1,5 @@
 # English German Usage iOS Application
-The universal application which can run on both iPhone and iPad
+The universal application which can run on both iPhone and iPad, written in Swift, use CoreDate, HTTPRequest and CoreGraphics
 
 Features:
 
